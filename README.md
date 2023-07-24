@@ -63,8 +63,3 @@ To start the development server for the backend, run: `npm run server:dev`
 - Jenifer Green
 - Zhu Meng
 
-
-
-## License
-
-This project is licensed under the MIT License.
