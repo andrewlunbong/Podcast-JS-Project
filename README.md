@@ -17,7 +17,7 @@ Social Media Podcast is a social media platform designed for podcast enthusiasts
 5. Friend List: Users can view a list of their friends and add or remove them from the list.
 
 ## Demo
-
+Please watch a demonstration of our app by clicking https://youtu.be/nmWBKBKWIGA
 
 ## Screenshots
 
