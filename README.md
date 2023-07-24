@@ -1,7 +1,5 @@
 # Social Media Podcast - Connecting Podcast Enthusiasts
 
-![Social Media Podcast Logo](https://example.com/social_media_podcast_logo.png)
-
 ## Project Description
 
 Social Media Podcast is a social media platform designed for podcast enthusiasts to connect with friends, share their favorite podcasts, and discover new ones. Users can create an account, log in, and start exploring the platform's exciting features.
