@@ -60,12 +60,7 @@ To start the development server for the backend, run: `npm run server:dev`
 - Jenifer Green
 - Zhu Meng
 
-## Additional Libraries
 
-The following libraries were used in this project:
-
-- Lottie: Used for adding beautiful animations to the app.
-- Victory Pie Charts: Used for displaying visually appealing and interactive pie charts in the app.
 
 ## License
 
