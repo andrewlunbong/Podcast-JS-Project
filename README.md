@@ -8,7 +8,7 @@ Social Media Podcast is a social media platform designed for podcast enthusiasts
 
 1. Podcast Sharing: Users can share their favorite podcasts with the community by posting podcast details such as title, description, and episode information. They can also add ratings and reviews to podcasts.
 
-2. Friend Connections: Users can with other users and send friend requests. Once connected, they can view each other's shared podcasts and activities.
+2. Friend Connections: Users can connect with other users and send friend requests. Once connected, they can view each other's shared podcasts and activities.
 
 3. Trending Podcasts: The platform displays a curated list of 5 trending podcasts on the homepage. These podcasts are determined based on factors like ratings, reviews, and user interactions.
 
